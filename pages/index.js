@@ -17,12 +17,12 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          {/* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed bibendum nunc, in molestie enim. Phasellus convallis risus quis metus efficitur, 
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sed bibendum nunc, in molestie enim. Phasellus convallis risus quis metus efficitur, 
           in volutpat erat cursus. Proin fringilla dapibus ex quis tempor. Vivamus eros ex, scelerisque sed porta eget, commodo id nunc. Morbi vitae neque sed 
           tellus convallis mollis et eget quam. Suspendisse facilisis, diam quis bibendum condimentum, mauris augue condimentum ipsum, vitae pellentesque orci lacus id enim. 
           Nullam hendrerit mi sed nisl consequat laoreet. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus vel felis pellentesque mi vestibulum semper. 
           Pellentesque ultricies quam vel pharetra suscipit. Pellentesque et turpis faucibus, egestas neque eget, interdum leo. Integer leo ex, tincidunt et est at, 
-          pellentesque lacinia diam. */}
+          pellentesque lacinia diam.
         </p>
 
         
